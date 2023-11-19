@@ -1,2 +1,2 @@
 # rohith-linux
-Then is for linux command
+Then   is for linux command
