@@ -1,0 +1,21 @@
+#for num in 1 2 3 4 5
+#do
+    #echo "Number: $num"
+#done
+
+
+
+#for file in *.txt
+#do
+    #echo "Processing file: $file"
+    # Add commands to process each file
+#done
+#shell script to print numbers 1 to 100
+#using while loop and expr
+
+i=1
+while [ $i -le 10000 ]
+do
+    echo $i
+    i=`expr $i + 1`
+done
